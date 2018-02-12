@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> street kids&copy</title>
+	<style type="text/css">body{background-color:#7A6990;
+		background-size:100%;
+		background-repeat:no-repeat; 
+
+	}
+	a:hover{background-color: black;
+		color: red;
+		width: 10px;
+		height: 10px;}
+	
+	img{
+		margin-left: 400px;
+	}
+	#claire{
+		color:#27AE60 ; 
+		float: left;
+
+	}
+	fieldset{
+		background-color: #7F8C8D; 
+		color: blue;
+		text-align: center;
+	}
+	#sk{
+		text-align: center;
+		color: #CB4335; 
+		font-family: Liberation Serif;
+	}
+	.pagination{
+		text-align: center;
+		color: #CB4335;
+
+	}
+	#Donate{
+		text-align: center;
+	}
+	#support{
+		text-align: center;
+	}
+	#class{
+		text-align: right;
+	}
+	#footer{
+		text-align: center;
+		color: red;
+		background-color: black;
+	}
+</style>
+</style>
+</head>
+<body>
+	<h1 align="center">STREET KIDS&COPY</h1>
+	<div class="a">
+	<div id="support">
+				<a href="">HOME</a>
+				<a href="aboutus.html">ABOUT</a>
+				<a href="contactus.html">CONTACT</a>
+			</div>
+				<div id="class">
+					<a href="signup.html">sign up</a>
+					<a href="login.html">log in</a>
+			</div>
+		</div>	
+			<div>
+				<h2 id="sk">Introduction</h4>
+					<p>There are many children on the streets of town and each and everyday the number increases. The children have many talents and have great potential in class at the same time. if these children could get some little help the situation on our streets would be a whole different story. The children on the street become a major issue in the streets of our city and many of them have extremely rare talents that if explored could result in brilliance.</p>
+
+			</div>
+			<div>
+				<h2 id="sk">Targeted</h2>
+				<p>The programs seeks to target the homeless children, the orphans and the street children. The program is due to start in a small town as it aims to grow and start delving into the big cities.</p>
+				</div>
+				<div>
+					<h2 id="sk">support us</h2>
+					<p>The organization is sipported by the government and well wishers. We also get support from non gorvemental associations.We seek assistance of any sort as we are still a growing organization.If you would like to be part of the growing family register and from there welcome to the familiy.<br>visit the donation page to help develop a childs life </p>
+						<p id="donate"><a href="donations.html">Donate to a child</a></p>
+						<p>We advice that you register first for credibility and will also give us a chance to communicate with yoou and inform you of the growth of the child you managed to sponsor.</p>
+					
+				</div>
+<br>
+<br>
+			</div>
+			<footer>
+				<div id="footer">
+					<p id="footer">visit our social media pages;</p>
+					<a href="https://www.facebook.com/"><img src="streetkids/fb.jpg" width="100px" height="100px"></a>
+					<a href="https://www.gmail.com/"><img src="streetkids/gmail.jpg" width="100px" height="100px"></a>
+					<a href="https://twitter.com/"><img src="streetkids/Twitter1.jpg" width="100px" height="100px"></a>
+					<p id="footer">weolcome to be of assistance to a child's life and to the growth of a great new reformed nation.</p>
+				</div>
+				</footer>
+
+
+		</body>
+		</html>
